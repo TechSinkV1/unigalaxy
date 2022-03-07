@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/unigalaxy/static/css/main.073c9b0a.css",
+    "main.js": "/unigalaxy/static/js/main.20ad3008.js",
+    "static/js/787.549ec77f.chunk.js": "/unigalaxy/static/js/787.549ec77f.chunk.js",
+    "static/media/logo.svg": "/unigalaxy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/unigalaxy/index.html",
+    "main.073c9b0a.css.map": "/unigalaxy/static/css/main.073c9b0a.css.map",
+    "main.20ad3008.js.map": "/unigalaxy/static/js/main.20ad3008.js.map",
+    "787.549ec77f.chunk.js.map": "/unigalaxy/static/js/787.549ec77f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.20ad3008.js"
+  ]
+}
